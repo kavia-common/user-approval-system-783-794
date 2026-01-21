@@ -1,0 +1,4 @@
+# SQLite connection methods:
+# Python: sqlite3.connect('myapp.db')
+# Connection string: sqlite:////tmp/kavia/workspace/code-generation/user-approval-system-783-794/main_database/myapp.db
+# File path: /tmp/kavia/workspace/code-generation/user-approval-system-783-794/main_database/myapp.db
